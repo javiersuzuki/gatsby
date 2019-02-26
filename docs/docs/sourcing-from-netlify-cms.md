@@ -85,7 +85,7 @@ slash is required!**
 
 You should now be viewing your Netlify CMS instance. You defined a "blog" collection in the
 configuration above, so you can create new blogs, but Netlify CMS will only store them in memory -
-if you refresh, your changes won't be there.
+if you refresh, your changes won't be there. **Note:** When typing the "path" of your new blog post within the Netlify CMS screen, it's required to add a forward slash at the beginning of the path name (i.e: /my-new-post).
 
 ### Saving to a Git Repo
 
